@@ -1,0 +1,65 @@
+commit 9562e35885720e2ccdfc1c5c862d7ea70fa8781c
+Author: Sydney Toler <stoler@mymail.mines.edu>
+Date:   Thu Feb 13 13:37:40 2020 -0700
+
+    changed eye color to blue
+
+commit 2cf2f5eda22859ce8adf51da5bc50f9a60c883a8
+Author: Christie Yee <cyee@mymail.mines.edu>
+Date:   Thu Feb 13 13:35:42 2020 -0700
+
+    grumpy cat
+
+commit 6d72fcffe32c90e676697cb0872fe7d6208d8a40
+Author: Sydney Toler <stoler@mymail.mines.edu>
+Date:   Thu Feb 13 13:34:53 2020 -0700
+
+    moved eyes right
+
+commit 9443090c99adb154c9fe21035d662cff8bdce159
+Author: Christie Yee <cyee@mymail.mines.edu>
+Date:   Thu Feb 13 13:32:44 2020 -0700
+
+    changed eye separation
+
+commit b549a8ab2779e300737b63075dec71fa7d8d26c6
+Author: Sydney Toler <stoler@mymail.mines.edu>
+Date:   Thu Feb 13 13:30:41 2020 -0700
+
+    fixed oval head
+
+commit 6eb0dd60fc5861eea1115c139eed59f0cd84dc95
+Author: Christie Yee <cyee@mymail.mines.edu>
+Date:   Thu Feb 13 13:29:04 2020 -0700
+
+    oval head
+
+commit 31f488d1098b1569c618ba3a4303744ef2ec359c
+Author: Sydney Toler <stoler@mymail.mines.edu>
+Date:   Thu Feb 13 13:27:14 2020 -0700
+
+    Changed mouth color to red
+
+commit 26c5f914b0575d3fc82afc32ef68f9d491d43966
+Author: Christie Yee <cyee@mymail.mines.edu>
+Date:   Thu Feb 13 13:24:54 2020 -0700
+
+    orange cat
+
+commit 15737f3fbd4fca961166d60666d326f550639768
+Author: Sydney Toler <stoler@mymail.mines.edu>
+Date:   Thu Feb 13 13:23:05 2020 -0700
+
+    Added source file
+
+commit 1ea2abced4300c76c872ce120074607e3c9b8d17
+Author: Sydney Toler <stoler@mymail.mines.edu>
+Date:   Thu Feb 13 13:12:04 2020 -0700
+
+    First commit
+
+commit dd6b07c34bc0685a96c327afa4112a3ba602f185
+Author: SydneyToler <60115904+SydneyToler@users.noreply.github.com>
+Date:   Thu Feb 13 12:34:59 2020 -0700
+
+    Initial commit
