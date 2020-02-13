@@ -31,7 +31,7 @@ public class Cat {
 		g2.fillOval(x, y, 125, HEAD_DIMENSION); //make oval head instead of circle
 		// Draw the eyes
 		g2.setColor(Color.green);
-		x = catX + EYE_X; 
+		x = catX + 2*EYE_X; //moved eyes right
 		y = catY + EYE_Y;
 		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
 		x += EYE_SEPARATION;
